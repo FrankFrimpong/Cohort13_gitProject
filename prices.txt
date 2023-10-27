@@ -1,1 +1,3 @@
 Mango = 2USD
+Cherry = 3USD
+Coconut  5USD
