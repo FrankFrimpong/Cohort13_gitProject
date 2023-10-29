@@ -2,3 +2,5 @@ Mango = 2USD
 Cherry = 3USD
 Coconut  5USD
 cherry = 8USD
+Pawpaw = 2USD
+Apple = 1USD
