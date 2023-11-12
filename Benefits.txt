@@ -1,3 +1,4 @@
-Energy
+Energy 
+power
 strenght
 Strong
