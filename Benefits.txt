@@ -2,3 +2,4 @@ Energy
 power
 strenght
 Strong
+vitality
